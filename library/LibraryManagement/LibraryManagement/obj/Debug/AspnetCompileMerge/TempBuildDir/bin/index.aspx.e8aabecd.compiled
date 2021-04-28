@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Home/Book/Index.aspx" hash="8d8907d7" filehash="c045d10af0af8dad" flags="110000" assembly="App_Web_fuknq3uy" type="ASP.home_book_index_aspx">
+    <filedeps>
+        <filedep name="/Home/Book/Index.aspx" />
+        <filedep name="/Home/Home.Master" />
+    </filedeps>
+</preserve>

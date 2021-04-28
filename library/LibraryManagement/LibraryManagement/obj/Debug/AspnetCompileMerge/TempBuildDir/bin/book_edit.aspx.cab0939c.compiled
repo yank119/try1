@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Admin/Book/Book_edit.aspx" hash="8d8907d7" filehash="817571006363fd4e" flags="110000" assembly="App_Web_nhf5obb1" type="ASP.admin_book_book_edit_aspx">
+    <filedeps>
+        <filedep name="/Admin/Admin.Master" />
+        <filedep name="/Admin/Book/Book_edit.aspx" />
+    </filedeps>
+</preserve>

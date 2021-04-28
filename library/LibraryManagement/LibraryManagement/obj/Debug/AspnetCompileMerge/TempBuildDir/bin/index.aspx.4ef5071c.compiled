@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Admin/Borrow/Index.aspx" hash="8d8907d7" filehash="817585ce53ac9ff3" flags="110000" assembly="App_Web_nnw5yqx3" type="ASP.admin_borrow_index_aspx">
+    <filedeps>
+        <filedep name="/Admin/Admin.Master" />
+        <filedep name="/Admin/Borrow/Index.aspx" />
+    </filedeps>
+</preserve>

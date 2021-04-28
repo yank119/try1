@@ -1,0 +1,4 @@
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\bin\Library.dll
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\bin\Library.pdb
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\Library.dll
+E:\VS Working\其他\图书管理\LibraryManagement\LibraryManagement\obj\Debug\Library.pdb

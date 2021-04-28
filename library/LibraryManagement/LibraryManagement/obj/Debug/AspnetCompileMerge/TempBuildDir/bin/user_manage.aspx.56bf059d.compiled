@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Admin/User/User_Manage.aspx" hash="8d8907d7" filehash="817587e4ec129b6f" flags="110000" assembly="App_Web_2pe5adwa" type="ASP.admin_user_user_manage_aspx">
+    <filedeps>
+        <filedep name="/Admin/Admin.Master" />
+        <filedep name="/Admin/User/User_Manage.aspx" />
+    </filedeps>
+</preserve>

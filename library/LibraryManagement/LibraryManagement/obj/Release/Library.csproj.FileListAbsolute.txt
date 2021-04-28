@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Library\Library\bin\Library.dll.config
+C:\Users\Administrator\Desktop\Library\Library\bin\Library.dll
+C:\Users\Administrator\Desktop\Library\Library\bin\Library.pdb
+C:\Users\Administrator\Desktop\Library\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Library\Library\obj\Release\Library.dll
+C:\Users\Administrator\Desktop\Library\Library\obj\Release\Library.pdb
+C:\Users\Administrator\Desktop\Library\Library\obj\Release\Library.csprojAssemblyReference.cache

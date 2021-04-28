@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Admin/List/Index.aspx" hash="8d8907d7" filehash="81757f77478302a1" flags="110000" assembly="App_Web_qoms5x0j" type="ASP.admin_list_index_aspx">
+    <filedeps>
+        <filedep name="/Admin/Admin.Master" />
+        <filedep name="/Admin/List/Index.aspx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Home/Borrow/Index.aspx" hash="8d8907d7" filehash="9cb6675a8bb53b92" flags="110000" assembly="App_Web_p3vocect" type="ASP.home_borrow_index_aspx">
+    <filedeps>
+        <filedep name="/Home/Borrow/Index.aspx" />
+        <filedep name="/Home/Home.Master" />
+    </filedeps>
+</preserve>
